@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cloze-test-generator/static/css/main.f418fde8.css",
+    "main.js": "/cloze-test-generator/static/js/main.3309dc6d.js",
+    "static/js/453.78c39ea7.chunk.js": "/cloze-test-generator/static/js/453.78c39ea7.chunk.js",
+    "index.html": "/cloze-test-generator/index.html",
+    "main.f418fde8.css.map": "/cloze-test-generator/static/css/main.f418fde8.css.map",
+    "main.3309dc6d.js.map": "/cloze-test-generator/static/js/main.3309dc6d.js.map",
+    "453.78c39ea7.chunk.js.map": "/cloze-test-generator/static/js/453.78c39ea7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f418fde8.css",
+    "static/js/main.3309dc6d.js"
+  ]
+}
